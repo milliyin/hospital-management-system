@@ -1,26 +1,23 @@
 ID,Name,Height,Weight
-1,Abdul Ur Rehman,155,117
-2,Kashif,155,117
-3,Qasim,185,82
-4,Amjad Qurashi,177,112
-5,Ustaad Ali,162,97
-6,Chahat Fathi Ali Khan,172,81
-7,Shohaib Akhtar,183,91
-8,Raja Ali,177,99
-9,Maryam Nawaz,167,117
-10,Abida Parveen,189,109
-11,Rashid Khan,177,60
-12,Babar Azam,187,99
-13,Saheen Afridi,165,73
-14,Bisma Cr,179,86
-15,neymar jr.,151,79
-16,Ustaad Ronaldo,175,97
-17,saad ur rehman,171,80
-18,zia ul haq,166,80
-19,imran naizi,166,102
-20,jumma khan,174,75
-21,muhammad gul jan,180,78
-22,sher khan,171,110
-24,illiyin,5,53
-25,azam jahaz,24,34
-26,zain ul abidin,5,200
+1,Patient 0,155,117
+2,Patient 1,155,117
+3,Patient 2,185,82
+4,Patient 3,177,112
+5,Patient 4,162,97
+6,Patient 5,172,81
+7,Patient 6,183,91
+8,Patient 7,177,99
+9,Patient 8,167,117
+10,Patient 9,189,109
+11,Patient 10,177,60
+12,Patient 11,187,99
+13,Patient 12,165,73
+14,Patient 13,179,86
+15,Patient 14,151,79
+16,Patient 15,175,97
+17,Patient 16,171,80
+18,Patient 17,166,80
+19,Patient 18,166,102
+20,Patient 19,174,75
+21,Patient 20,180,78
+22,Patient 21,171,110
