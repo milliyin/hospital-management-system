@@ -1,16 +1,16 @@
 ID,Name,Major,contactnumber
-1,asim munir,Dermatology,555-0126-7932
-2,guljabin,Pediatrics,555-0155-6115
-3,khattak izaz,Pediatrics,555-0157-3544
-4,L.messi,Dermatology,555-0188-4878
-5,fawad khan,Dermatology,555-0138-9896
-6,Muhammad Hassaan,Cardiology,555-0139-3591
-7,jeff bozo,Dermatology,555-0141-6117
-8,nawaz sharif,Cardiology,555-0177-7020
-9,shebaz sharif,Orthopedics,555-0151-4347
-10,Butt saab,Pediatrics,555-0151-3055
-11,Shera,Cardiology,555-0146-5291
-12,zaid ali,Cardiology,555-0161-2700
-13,salman khan,Neurology,555-0197-2274
-14,zardari,Neurology,555-0138-2834
-15,Altaf bhai,Pediatrics,555-0186-5614
+1,Doctor 0,Dermatology,555-0126-7932
+2,Doctor 1,Pediatrics,555-0155-6115
+3,Doctor 2,Pediatrics,555-0157-3544
+4,Doctor 3,Dermatology,555-0188-4878
+5,Doctor 4,Dermatology,555-0138-9896
+6,Doctor 5,Cardiology,555-0139-3591
+7,Doctor 6,Dermatology,555-0141-6117
+8,Doctor 7,Cardiology,555-0177-7020
+9,Doctor 8,Orthopedics,555-0151-4347
+10,Doctor 9,Pediatrics,555-0151-3055
+11,Doctor 10,Cardiology,555-0146-5291
+12,Doctor 11,Cardiology,555-0161-2700
+13,Doctor 12,Neurology,555-0197-2274
+14,Doctor 13,Neurology,555-0138-2834
+15,Doctor 14,Pediatrics,555-0186-5614
